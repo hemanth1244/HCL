@@ -13,13 +13,18 @@ C. Test connectivity between 2 nodes
   <img width="634" height="186" alt="image" src="https://github.com/user-attachments/assets/60dcbb9a-22d8-4dc8-a823-cf5a889937f7" />
 
 3. Using netcat (port-level connectivity)
-   <img width="860" height="375" alt="image" src="https://github.com/user-attachments/assets/03964920-dd41-4840-a9f5-951111111718" />
+   
+ <img width="860" height="375" alt="image" src="https://github.com/user-attachments/assets/03964920-dd41-4840-a9f5-951111111718" />
 
 2. App Running but Page Not Loading (guvi.com:9000)
 netstat -tulnp | grep 9000
 B. Check if the port is open locally
 nc -zv localhost 9000
-C. Check firewall rules (VERY common issue)
+
+C. Check if port 9000 is reachable from outside
+   telnet guvi.com 9000
+   
+D. Check firewall rules (VERY common issue)
 <img width="800" height="605" alt="image" src="https://github.com/user-attachments/assets/01accce4-25b9-49be-aa91-85e9163f7a55" />
 
 ![Uploading image.png…]()
