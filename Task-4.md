@@ -22,6 +22,8 @@ Launch an EC2 instance (Linux and Windows) along with a web server. Then, create
 <img width="1802" height="684" alt="image" src="https://github.com/user-attachments/assets/66a62fa9-7046-4212-9b93-9c96a166f1e3" />
 <img width="1634" height="646" alt="image" src="https://github.com/user-attachments/assets/fdc791ed-e400-4a03-9d41-e38f150efa62" />
 <img width="674" height="877" alt="image" src="https://github.com/user-attachments/assets/1c108426-8dad-4d08-8ff3-65b9b29a3bd3" />
+<img width="630" height="201" alt="image" src="https://github.com/user-attachments/assets/f475b460-66ac-4d07-8d1f-fc18c274971b" />
+
 
 
 
