@@ -1,0 +1,2 @@
+Auth module created
+Login functionality added
