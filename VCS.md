@@ -7,6 +7,10 @@ Establish a new directory, populate it with script files, initiate an empty repo
 <img width="711" height="211" alt="image" src="https://github.com/user-attachments/assets/66718e90-2652-4ab1-a458-f11d5eecd30f" />
 <img width="1066" height="945" alt="image" src="https://github.com/user-attachments/assets/1a8ff4bf-e8cc-407d-853c-9787639b2679" />
 <img width="1046" height="648" alt="image" src="https://github.com/user-attachments/assets/10bf0e8a-5219-4417-8f39-2cf3c9ae235a" />
+<img width="1097" height="905" alt="image" src="https://github.com/user-attachments/assets/4c0d9e60-dffe-41ee-b122-5467fc8284d3" />
+<img width="1055" height="303" alt="image" src="https://github.com/user-attachments/assets/06c77ea7-c78e-4558-a68a-9941d0c51864" />
+
+
 
 
 
