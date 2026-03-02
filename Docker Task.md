@@ -10,6 +10,10 @@ Install docker on EC2 and explore the docker commands (docker images, containers
 <img width="1914" height="256" alt="image" src="https://github.com/user-attachments/assets/b7310e4a-cd49-4ca8-8fcb-788890f2f4b9" />
 <img width="1733" height="584" alt="image" src="https://github.com/user-attachments/assets/735e747a-b229-4b5b-b435-e425cf69cd0a" />
 <img width="1051" height="320" alt="image" src="https://github.com/user-attachments/assets/cbbfb74f-6a28-4a8f-a202-f521e77ae309" />
+<img width="1773" height="455" alt="image" src="https://github.com/user-attachments/assets/37246960-4c3c-4cfb-93b2-5dacaff64738" />
+<img width="562" height="119" alt="image" src="https://github.com/user-attachments/assets/38d45e92-622e-4834-acad-677c2f1b321b" />
+
+
 
 
 
