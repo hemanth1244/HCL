@@ -15,6 +15,58 @@ sudo apt install jenkins
 <img width="1377" height="862" alt="image" src="https://github.com/user-attachments/assets/c971edfb-c78d-45e6-8b30-7727444ea0c4" />
 <img width="731" height="127" alt="image" src="https://github.com/user-attachments/assets/5edaf400-5af7-4342-9190-c7788280e04d" />
 <img width="817" height="79" alt="image" src="https://github.com/user-attachments/assets/fcdf452c-4427-4f9d-b74d-405ce42ca203" />
+<img width="759" height="41" alt="image" src="https://github.com/user-attachments/assets/715546b3-c911-4805-a89c-23d5d4c36bc2" />
+<img width="970" height="141" alt="image" src="https://github.com/user-attachments/assets/d80bbabc-efee-49bf-abdb-d78a13b7e84e" />
+<img width="1375" height="85" alt="image" src="https://github.com/user-attachments/assets/1f9862b9-edae-4999-8248-e1ffefaefa0f" />
+<img width="1909" height="269" alt="image" src="https://github.com/user-attachments/assets/438e502c-1349-4e0e-a579-81782081ae00" />
+<img width="869" height="131" alt="image" src="https://github.com/user-attachments/assets/81f3ebd7-586d-4e7b-b68b-f7ffe1ec2eef" />
+<img width="558" height="92" alt="image" src="https://github.com/user-attachments/assets/e40193f4-6dd3-49ce-999d-80993224c306" />
+<img width="1818" height="468" alt="image" src="https://github.com/user-attachments/assets/59857291-f9b1-486d-8ef1-077e9e8b3a01" />
+<img width="738" height="180" alt="image" src="https://github.com/user-attachments/assets/ef7551b4-788e-4bf4-a74c-e45f925c2ae8" />
+<img width="774" height="107" alt="image" src="https://github.com/user-attachments/assets/f57e74b2-e226-44ea-8334-de81839df324" />
+<img width="1216" height="754" alt="image" src="https://github.com/user-attachments/assets/25a8052d-e2be-4a7f-bd19-1030bfea4dbe" />
+<img width="1074" height="210" alt="image" src="https://github.com/user-attachments/assets/db308a1d-87a1-449f-812b-cb112694a531" />
+<img width="958" height="609" alt="image" src="https://github.com/user-attachments/assets/d0b10e14-b60d-42f5-a31c-1a9829ecd834" />
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/3d7e5670-20b5-45b1-8d6e-a60b4a400c93" />
+<img width="760" height="392" alt="image" src="https://github.com/user-attachments/assets/b68debd1-81e9-451f-9078-a42b227995a2" />
+<img width="738" height="58" alt="image" src="https://github.com/user-attachments/assets/a8257dab-0fab-498f-8ff0-b7d2ec674fd5" />
+<img width="1022" height="939" alt="image" src="https://github.com/user-attachments/assets/826e6ec5-026a-40b8-bf84-33e3c7debae4" />
+<img width="891" height="402" alt="image" src="https://github.com/user-attachments/assets/0df45263-9c1d-4c4b-973e-6ef1773c45d6" />
+<img width="1284" height="873" alt="image" src="https://github.com/user-attachments/assets/bc56d48d-fd8c-4f1b-8ab8-a60f1b793e2a" />
+<img width="1170" height="108" alt="image" src="https://github.com/user-attachments/assets/9ca022a9-06ab-4a91-ac1a-c10a16794d93" />
+<img width="845" height="317" alt="image" src="https://github.com/user-attachments/assets/56db3ced-39d6-44c8-9f07-e113f7e3f81e" />
+<img width="1876" height="817" alt="image" src="https://github.com/user-attachments/assets/f1799877-97c6-4540-8816-1544c930596a" />
+<img width="1866" height="892" alt="image" src="https://github.com/user-attachments/assets/ff4f6a27-3457-484b-9116-f9e74470a0cb" />
+<img width="1828" height="814" alt="image" src="https://github.com/user-attachments/assets/b62a29e8-dc12-4641-a3de-2313db8e323b" />
+<img width="1676" height="919" alt="image" src="https://github.com/user-attachments/assets/c27942e9-173e-45d8-9eb6-39879e7118f1" />
+<img width="459" height="120" alt="image" src="https://github.com/user-attachments/assets/6c37351c-cc04-458c-99c1-f1fde506bf8e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
