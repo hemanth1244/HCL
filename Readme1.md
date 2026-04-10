@@ -48,7 +48,24 @@ Login to ECR
 <img width="717" height="47" alt="image" src="https://github.com/user-attachments/assets/f41bd900-da6f-4639-a42c-234cf16bdc12" />
 <img width="1904" height="841" alt="image" src="https://github.com/user-attachments/assets/a72e08d7-97fb-4804-b338-6892db44c2cf" />
 Create EKS Cluster
-![Uploading image.png…]()
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/995cf22a-5845-4dbd-ad6b-9b19bb2f5187" />
+<img width="1180" height="113" alt="image" src="https://github.com/user-attachments/assets/148d3edf-8d59-43ae-be54-fbd654c07426" />
+<img width="1552" height="52" alt="image" src="https://github.com/user-attachments/assets/755cf943-777c-441b-b8ab-a174f017ec01" />
+Tag Your Image
+<img width="1273" height="307" alt="image" src="https://github.com/user-attachments/assets/65905a7a-8d7f-42fc-9597-283fd8887648" />
+Push Image
+<img width="1436" height="810" alt="image" src="https://github.com/user-attachments/assets/5d5b9987-f0af-4bed-afcf-5ee8ba2ace69" />
+<img width="1212" height="300" alt="image" src="https://github.com/user-attachments/assets/914c9808-930f-46b9-a03f-aee5b6509aff" />
+Verify Correct Repository URI
+<img width="1812" height="906" alt="image" src="https://github.com/user-attachments/assets/d748226e-e7b8-46a7-b197-10ae043f9430" />
+<img width="1880" height="435" alt="image" src="https://github.com/user-attachments/assets/96535004-095e-4844-a8e9-f9bda44f2bdb" />
+Step 1: Deploy to EKS
+Use your ECR image in Kubernetes.
+<img width="724" height="133" alt="image" src="https://github.com/user-attachments/assets/97b4835d-c8a9-437e-a408-7291069d8170" />
+
+
+
+
 
 
 
