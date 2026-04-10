@@ -48,6 +48,7 @@ Login to ECR
 <img width="717" height="47" alt="image" src="https://github.com/user-attachments/assets/f41bd900-da6f-4639-a42c-234cf16bdc12" />
 <img width="1904" height="841" alt="image" src="https://github.com/user-attachments/assets/a72e08d7-97fb-4804-b338-6892db44c2cf" />
 Create EKS Cluster
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/394c2795-17e5-4b30-9c0b-fd0403e137e4" />
 <img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/995cf22a-5845-4dbd-ad6b-9b19bb2f5187" />
 <img width="1180" height="113" alt="image" src="https://github.com/user-attachments/assets/148d3edf-8d59-43ae-be54-fbd654c07426" />
 <img width="1552" height="52" alt="image" src="https://github.com/user-attachments/assets/755cf943-777c-441b-b8ab-a174f017ec01" />
