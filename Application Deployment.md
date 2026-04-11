@@ -69,6 +69,17 @@ buildspec.yml (FINAL – USE THIS)
 CodeBuild Setup (STEP-BY-STEP)
 <img width="1832" height="617" alt="image" src="https://github.com/user-attachments/assets/77b0a317-c5f2-4596-b0ff-2c7cbe7e377d" />
 <img width="1674" height="504" alt="image" src="https://github.com/user-attachments/assets/56c851a4-de53-44db-beb6-3301af660b50" />
+<img width="1719" height="686" alt="image" src="https://github.com/user-attachments/assets/de4adb97-ed55-47a7-a245-f945f9bf9aef" />
+<img width="1439" height="85" alt="image" src="https://github.com/user-attachments/assets/d00e3520-dffd-4ef9-a0fc-b6336f7ed9b3" />
+<img width="1892" height="311" alt="image" src="https://github.com/user-attachments/assets/c8dfc37a-9e65-4465-b8fa-6fe1d7297da5" />
+<img width="1895" height="547" alt="image" src="https://github.com/user-attachments/assets/d967f3b3-6119-46f5-bd95-f06d5037081f" />
+<img width="1903" height="566" alt="image" src="https://github.com/user-attachments/assets/89324ac6-6b02-4e8e-8e32-0657cb6e67f0" />
+<img width="1897" height="606" alt="image" src="https://github.com/user-attachments/assets/89eb2604-0aa8-4908-9c55-28c9948c559f" />
+<img width="1871" height="623" alt="image" src="https://github.com/user-attachments/assets/5904ce5c-95f8-4ef0-8490-e14582a7a341" />
+<img width="1199" height="326" alt="image" src="https://github.com/user-attachments/assets/05623542-e8c7-433c-9f65-3c074e56fafe" />
+<img width="1911" height="610" alt="image" src="https://github.com/user-attachments/assets/68cb5ed5-a243-4033-8e67-88b152a6139d" />
+<img width="1437" height="350" alt="image" src="https://github.com/user-attachments/assets/201d9779-e533-42d2-b752-97162b3a1b3f" />
+<img width="1652" height="574" alt="image" src="https://github.com/user-attachments/assets/68029ba6-6be5-44cf-a733-f9f4639fb9bf" />
 <img width="1629" height="638" alt="image" src="https://github.com/user-attachments/assets/b1088ecb-1def-43de-8b8f-74830e273189" />
 <img width="761" height="214" alt="image" src="https://github.com/user-attachments/assets/13c54d57-a664-4edd-9c73-a7505525257d" />
 <img width="1901" height="555" alt="image" src="https://github.com/user-attachments/assets/6ac4d9cb-c1c6-4f59-86fb-d14ac4d07155" />
@@ -76,6 +87,54 @@ CodeBuild Setup (STEP-BY-STEP)
 <img width="1909" height="905" alt="image" src="https://github.com/user-attachments/assets/b86c9162-b534-4f97-9b52-d3c20d30088a" />
 <img width="1716" height="549" alt="image" src="https://github.com/user-attachments/assets/4cd79980-a937-4a3d-b344-0a44f882b7ad" />
 <img width="767" height="304" alt="image" src="https://github.com/user-attachments/assets/e6816ac8-84ab-46ca-a0ab-b382da28b1db" />
+<img width="873" height="213" alt="image" src="https://github.com/user-attachments/assets/890e6b9c-6c52-42ea-927a-125a240e665b" />
+<img width="881" height="675" alt="image" src="https://github.com/user-attachments/assets/7300ac74-0f31-422e-a4dc-3c8507d67f01" />
+<img width="698" height="287" alt="image" src="https://github.com/user-attachments/assets/9bf94dcb-52df-4d16-a312-341c8b6d8904" />
+Updated buidspec.yml:
+<img width="1876" height="959" alt="image" src="https://github.com/user-attachments/assets/8bcfe13b-ae0f-4ca7-810f-d8c66e116e08" />
+<img width="1059" height="527" alt="image" src="https://github.com/user-attachments/assets/3a5b8d94-b1a6-4d9f-90c3-16073f945a08" />
+<img width="1008" height="216" alt="image" src="https://github.com/user-attachments/assets/10e95fbb-db6d-4dea-8c1c-c97b299b4d2c" />
+<img width="1393" height="705" alt="image" src="https://github.com/user-attachments/assets/66fd348a-8b5d-453a-9da5-4b59cfc5a844" />
+<img width="1859" height="848" alt="image" src="https://github.com/user-attachments/assets/a14181fc-2cf1-4da2-89fd-8cadd88a16b5" />
+<img width="1558" height="692" alt="image" src="https://github.com/user-attachments/assets/649c8b77-f71d-4c23-85e4-44bd0088ca4a" />
+Create CodePipeline (FINAL STEP)
+<img width="1220" height="414" alt="image" src="https://github.com/user-attachments/assets/03dbd6be-f84e-41e2-821c-d2921855518e" />
+<img width="1268" height="794" alt="image" src="https://github.com/user-attachments/assets/9e4dec65-c8e7-4439-abfc-3e3109d103e0" />
+<img width="871" height="412" alt="image" src="https://github.com/user-attachments/assets/950fcb86-ec94-4c36-b0c1-cede34adf4ef" />
+<img width="1241" height="699" alt="image" src="https://github.com/user-attachments/assets/c26b92f5-6bdd-4d56-9e70-701170e5ab6b" />
+<img width="1278" height="791" alt="image" src="https://github.com/user-attachments/assets/08f4409e-1bf9-4591-8380-0992c94a338d" />
+<img width="1229" height="792" alt="image" src="https://github.com/user-attachments/assets/973a04d4-4ece-4bd1-a20c-c3a8acd22960" />
+<img width="1156" height="806" alt="image" src="https://github.com/user-attachments/assets/decbb89e-c7e7-4932-bc9e-73b05dd64a78" />
+<img width="1873" height="689" alt="image" src="https://github.com/user-attachments/assets/9b6e858a-9444-4303-9a50-d9443ed342fa" />
+<img width="756" height="145" alt="image" src="https://github.com/user-attachments/assets/2de489dc-f078-4b50-b73e-13d0f5796174" />
+<img width="1734" height="129" alt="image" src="https://github.com/user-attachments/assets/3e113b8e-0ba3-4ad6-bd99-35aee4260968" />
+<img width="1762" height="784" alt="image" src="https://github.com/user-attachments/assets/e6c52980-6c97-4a86-9c29-44908b88562d" />
+<img width="1884" height="796" alt="image" src="https://github.com/user-attachments/assets/b99bb164-c088-4c01-9a8b-80e9db08002b" />
+<img width="1891" height="815" alt="image" src="https://github.com/user-attachments/assets/f4bad3e3-6b50-448e-b496-bb044ac8b2b7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
