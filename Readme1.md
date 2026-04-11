@@ -63,6 +63,16 @@ Verify Correct Repository URI
 Step 1: Deploy to EKS
 Use your ECR image in Kubernetes.
 <img width="724" height="133" alt="image" src="https://github.com/user-attachments/assets/97b4835d-c8a9-437e-a408-7291069d8170" />
+buildspec.yml (FINAL – USE THIS)
+📍 Place in root folder
+<img width="1914" height="944" alt="image" src="https://github.com/user-attachments/assets/9b59018a-8052-4340-86c9-b51fdbf1f7da" />
+CodeBuild Setup (STEP-BY-STEP)
+<img width="1832" height="617" alt="image" src="https://github.com/user-attachments/assets/77b0a317-c5f2-4596-b0ff-2c7cbe7e377d" />
+<img width="1674" height="504" alt="image" src="https://github.com/user-attachments/assets/56c851a4-de53-44db-beb6-3301af660b50" />
+<img width="1629" height="638" alt="image" src="https://github.com/user-attachments/assets/b1088ecb-1def-43de-8b8f-74830e273189" />
+
+
+
 
 
 
