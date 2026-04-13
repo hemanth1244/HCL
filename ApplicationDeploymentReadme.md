@@ -112,6 +112,7 @@ artifacts:
     - imagedefinitions.json
     - appspec.yaml# Brain Tasks App – Production Deployment on AWS
 
+README.md:
 ## Project Overview
 This project demonstrates production-style deployment of the Brain Tasks React application using Docker, Amazon ECR, Amazon EKS, AWS CodeBuild, AWS CodePipeline, and CloudWatch Logs.
 
@@ -149,6 +150,9 @@ cd Brain-Tasks-App
 
 docker build -t brain-app:latest .
 docker run -d -p 3000:3000 brain-app:latest
+Open in browser:
+http://Publicipofinstance:3000
+
 Amazon ECR Steps
 aws ecr create-repository --repository-name brain-app --region ap-south-2
 aws ecr get-login-password --region ap-south-2 | docker login --username AWS --password-stdin <account-id>.dkr.ecr.ap-south-2.amazonaws.com
