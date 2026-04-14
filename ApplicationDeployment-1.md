@@ -90,8 +90,180 @@ Install the AWS Load Balancer Controller
 Apply the Kubernetes manifests manually once
 <img width="633" height="205" alt="image" src="https://github.com/user-attachments/assets/64a5318d-b9af-434f-8497-6d7246dffe3a" />
 <img width="1015" height="218" alt="image" src="https://github.com/user-attachments/assets/1efda844-de11-4a49-a96d-e6825d27140d" />
+<img width="802" height="99" alt="image" src="https://github.com/user-attachments/assets/41eda409-a2c6-42cc-b488-22dde4a9d806" />
+<img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/94f580a8-30e2-4586-b3b1-89cfb02624f3" />
 
 Get the Kubernetes load balancer ARN
+<img width="742" height="405" alt="image" src="https://github.com/user-attachments/assets/9613a0c4-415b-4de7-8e75-29a5a99d1993" />
+<img width="1873" height="857" alt="image" src="https://github.com/user-attachments/assets/82583cb9-e952-4c91-9d2b-0cbd7dbf2897" />
+<img width="1906" height="893" alt="image" src="https://github.com/user-attachments/assets/d734cc2c-61c9-483d-9b40-55d345559628" />
+
+Connect to Jenkins EC2
+<img width="1903" height="718" alt="image" src="https://github.com/user-attachments/assets/4f9070fe-9de4-4964-b4a5-78cb1ea85c08" />
+<img width="1004" height="103" alt="image" src="https://github.com/user-attachments/assets/9f6e5b22-d859-4edb-9cc6-f15abc6c4f44" />
+<img width="1195" height="795" alt="image" src="https://github.com/user-attachments/assets/fed956f1-9094-4421-a680-f1b710b78f44" />
+
+Install required extra plugins
+<img width="1677" height="432" alt="image" src="https://github.com/user-attachments/assets/8879e59a-36f7-4754-8f02-c83be63eb39a" />
+<img width="956" height="150" alt="image" src="https://github.com/user-attachments/assets/8f7f372c-4b5e-4989-a966-94f73f558d5f" />
+<img width="1162" height="121" alt="image" src="https://github.com/user-attachments/assets/86e4807a-d609-4acf-a69e-142e5b1b9eb5" />
+<img width="700" height="122" alt="image" src="https://github.com/user-attachments/assets/c399c409-c3a4-4beb-9fa5-532b045857d7" />
+<img width="1557" height="187" alt="image" src="https://github.com/user-attachments/assets/5dab786b-17b8-4510-9458-2fc996f51635" />
+<img width="1889" height="902" alt="image" src="https://github.com/user-attachments/assets/328a41b6-7e86-4201-9b94-db74f5f7b1ed" />
+
+Add Docker Hub credentials
+<img width="1903" height="899" alt="image" src="https://github.com/user-attachments/assets/66a956a3-54b4-4bfd-a2eb-8d535a96f1a6" />
+
+Make sure Jenkins can use Docker
+<img width="782" height="178" alt="image" src="https://github.com/user-attachments/assets/9e28c5be-6fc5-4118-97f0-0e0a2fea6299" />
+<img width="676" height="69" alt="image" src="https://github.com/user-attachments/assets/97b2096c-c5e2-43be-ad95-1e33cc90d9d0" />
+
+Make sure Jenkins can access EKS
+<img width="1454" height="517" alt="image" src="https://github.com/user-attachments/assets/e6c445cb-d424-4a4c-bc51-1f9f45b9e1f2" />
+<img width="1866" height="788" alt="image" src="https://github.com/user-attachments/assets/dc28532b-9573-43b1-8977-89c973fb65b7" />
+Run these commands on the Jenkins EC2 server:
+<img width="1694" height="165" alt="image" src="https://github.com/user-attachments/assets/c531205a-6361-489a-ba5f-c1db7b3394c3" />
+<img width="881" height="143" alt="image" src="https://github.com/user-attachments/assets/4293eeac-384f-4dff-b0e2-f228788b62d0" />
+<img width="720" height="141" alt="image" src="https://github.com/user-attachments/assets/d2ce3b5e-b558-486e-be9e-c68356f00d31" />
+
+Push your full project to GitHub
+<img width="1742" height="865" alt="image" src="https://github.com/user-attachments/assets/8046034d-7e86-41fa-bcde-42605014f8bb" />
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/a57190c5-0dd8-4320-bf72-0c8929b3e8e9" />
+Remove the large Terraform cache from Git tracking
+<img width="1784" height="750" alt="image" src="https://github.com/user-attachments/assets/d6f634bc-d1df-4144-831f-01b0337f4660" />
+<img width="1836" height="685" alt="image" src="https://github.com/user-attachments/assets/c226604a-73d5-4923-b08b-6ef1f920393a" />
+<img width="1901" height="973" alt="image" src="https://github.com/user-attachments/assets/abff3b27-e4ac-4595-b35c-bab6de36cac6" />
+<img width="1397" height="749" alt="image" src="https://github.com/user-attachments/assets/0a0738fa-776e-421f-9bae-3ef8d6621213" />
+
+Create Pipeline job
+<img width="1828" height="803" alt="image" src="https://github.com/user-attachments/assets/87610e72-6eca-4faa-87c4-dad4735123fb" />
+<img width="1807" height="900" alt="image" src="https://github.com/user-attachments/assets/94a2beff-2e42-4092-8e45-80db275fc07f" />
+<img width="1809" height="905" alt="image" src="https://github.com/user-attachments/assets/3ed47b19-6145-447d-99b5-b9cabf8c2ba9" />
+<img width="1847" height="956" alt="image" src="https://github.com/user-attachments/assets/464ee17b-2bc2-40b7-b9fa-cd3716d430be" />
+<img width="888" height="678" alt="image" src="https://github.com/user-attachments/assets/97aa51e3-2bfb-4fab-b618-fe65370b27f9" />
+<img width="1479" height="564" alt="image" src="https://github.com/user-attachments/assets/11100814-e08e-4040-ba5e-a16d2e100654" />
+<img width="837" height="825" alt="image" src="https://github.com/user-attachments/assets/21145083-5244-4169-8675-d271ef7291f5" />
+<img width="1237" height="862" alt="image" src="https://github.com/user-attachments/assets/c08dbf9d-d48e-42c9-92f2-a51ca1d264a7" />
+<img width="1376" height="541" alt="image" src="https://github.com/user-attachments/assets/858f1d6c-e258-452f-a168-2090363eff21" />
+<img width="1866" height="745" alt="image" src="https://github.com/user-attachments/assets/f3a699d8-4a9f-4e74-90d7-391568dcc4e7" />
+<img width="1881" height="767" alt="image" src="https://github.com/user-attachments/assets/91d8eee2-4694-4203-951d-bf02331522ab" />
+<img width="1059" height="77" alt="image" src="https://github.com/user-attachments/assets/88add4e1-a1e5-4d6a-ae7e-5c457f0ebd33" />
+<img width="1477" height="427" alt="image" src="https://github.com/user-attachments/assets/1ce86646-d532-4bf2-9e62-4bc30d494fbf" />
+<img width="1411" height="146" alt="image" src="https://github.com/user-attachments/assets/4b7f1d0f-0f82-45ac-bd15-d219be7c9856" />
+<img width="1898" height="896" alt="image" src="https://github.com/user-attachments/assets/9eb73c1b-8e05-46a9-94cb-18355430939a" />
+<img width="1889" height="908" alt="image" src="https://github.com/user-attachments/assets/c8feabbb-d3fa-4164-a60d-5a82dcee4b2b" />
+<img width="1374" height="830" alt="image" src="https://github.com/user-attachments/assets/429cb6c8-ea9d-45fd-9e22-c11d7429a8d5" />
+<img width="1244" height="818" alt="image" src="https://github.com/user-attachments/assets/86512a43-1bf1-4eb8-a5be-62ff05bbca42" />
+<img width="1208" height="808" alt="image" src="https://github.com/user-attachments/assets/bce1832e-64b0-4e9f-ab7c-f0ee7350f5e2" />
+<img width="1861" height="892" alt="image" src="https://github.com/user-attachments/assets/c27ce5ea-22f0-48f3-a207-4f71a6ebbbfb" />
+<img width="1409" height="808" alt="image" src="https://github.com/user-attachments/assets/d79819cc-a1a0-4c94-9c30-25941d8bf76f" />
+
+Setup GitHub Webhook
+<img width="1574" height="367" alt="image" src="https://github.com/user-attachments/assets/1aa0e0cc-d901-4adf-b073-36b220882252" />
+<img width="1851" height="963" alt="image" src="https://github.com/user-attachments/assets/11b6d112-4c0f-43e4-86ae-7f4166877cf3" />
+
+Enable webhook trigger in Jenkins
+<img width="1318" height="570" alt="image" src="https://github.com/user-attachments/assets/91736de2-c6cc-497e-97c0-3249db887e34" />
+
+Test CI/CD pipeline
+<img width="993" height="690" alt="image" src="https://github.com/user-attachments/assets/9c20455b-48ec-460e-be8c-639b6e230f88" />
+<img width="1012" height="747" alt="image" src="https://github.com/user-attachments/assets/4b0acff7-3511-4fc5-957f-c65b867f53df" />
+<img width="1672" height="388" alt="image" src="https://github.com/user-attachments/assets/cc59368e-d787-46b1-b680-806c246cefed" />
+<img width="1055" height="893" alt="image" src="https://github.com/user-attachments/assets/1f134db1-742f-4969-85c3-0c384295810b" />
+
+Verify deployment in EKS
+<img width="1875" height="201" alt="image" src="https://github.com/user-attachments/assets/8161567d-b271-4534-8000-340e217dad0f" />
+<img width="1875" height="823" alt="image" src="https://github.com/user-attachments/assets/2e76b454-91a1-47b7-858f-2e5d292dc7a7" />
+
+Get LoadBalancer ARN
+<img width="1836" height="773" alt="image" src="https://github.com/user-attachments/assets/9312360e-bebb-4382-9acb-23494c14f0b4" />
+
+Install monitoring (Prometheus + Grafana)
+Run these commands on your Jenkins EC2:
+<img width="1466" height="194" alt="image" src="https://github.com/user-attachments/assets/34a7e376-b8e4-46c9-8838-a1dc098c9a85" />
+<img width="1609" height="78" alt="image" src="https://github.com/user-attachments/assets/0350fba4-62b9-43e3-9253-b26de3483d4d" />
+<img width="1891" height="967" alt="image" src="https://github.com/user-attachments/assets/bbe09607-3390-4782-afc9-27aef79798bf" />
+<img width="1142" height="244" alt="image" src="https://github.com/user-attachments/assets/2198e554-0c90-429b-af06-310e3f868eb4" />
+
+If you want Grafana after that:
+<img width="1158" height="80" alt="image" src="https://github.com/user-attachments/assets/abf6db62-49e7-4ae5-8f03-6006a43737bd" />
+make Grafana LoadBalancer
+<img width="1785" height="229" alt="image" src="https://github.com/user-attachments/assets/165afc6c-bba6-4863-992a-be2827b451a7" />
+Grafana login
+<img width="1464" height="788" alt="image" src="https://github.com/user-attachments/assets/a3fa92b9-a662-45f0-9fe9-b67200305afd" />
+<img width="1892" height="826" alt="image" src="https://github.com/user-attachments/assets/90fe703f-e2d1-414a-b6ee-b55bf0ca911b" />
+<img width="1857" height="815" alt="image" src="https://github.com/user-attachments/assets/e8638c97-22eb-43ae-8220-1d894532b902" />
+<img width="1919" height="488" alt="image" src="https://github.com/user-attachments/assets/a1e421e3-8e70-4907-9d86-7382bc67a6c8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
