@@ -26,6 +26,14 @@ Test with docker compose:
 Push images to Docker Hub
 <img width="535" height="46" alt="image" src="https://github.com/user-attachments/assets/c1848540-5cad-4be3-81e0-d4b3e258bcf3" />
 <img width="1528" height="350" alt="image" src="https://github.com/user-attachments/assets/159e1df7-ff93-4072-8015-f93d6520e3b7" />
+Create a dev branch
+<img width="968" height="159" alt="image" src="https://github.com/user-attachments/assets/06730ebf-5617-47bf-abca-37e332e8f54b" />
+<img width="306" height="22" alt="image" src="https://github.com/user-attachments/assets/aeb61e93-d48b-4304-9451-1d3a54f0cdd0" />
+<img width="1005" height="66" alt="image" src="https://github.com/user-attachments/assets/2ad0b088-3a89-4702-a4eb-06c29273dc37" />
+<img width="1330" height="868" alt="image" src="https://github.com/user-attachments/assets/de5c069a-12a6-40f3-8123-145568a1d7f3" />
+
+
+
 
 
 
