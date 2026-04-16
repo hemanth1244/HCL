@@ -32,6 +32,18 @@ Create a dev branch
 <img width="1005" height="66" alt="image" src="https://github.com/user-attachments/assets/2ad0b088-3a89-4702-a4eb-06c29273dc37" />
 <img width="1330" height="868" alt="image" src="https://github.com/user-attachments/assets/de5c069a-12a6-40f3-8123-145568a1d7f3" />
 
+<img width="816" height="434" alt="image" src="https://github.com/user-attachments/assets/c77554bc-68b0-4d98-9117-062f1ca57139" />
+Install Java and Jenkins
+Install Java
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/d46676ab-410d-4706-b2b1-9d9359a1b75d" />
+<img width="952" height="91" alt="image" src="https://github.com/user-attachments/assets/db5c434f-6bdb-4ad7-abfa-69929e0fd34b" />
+Install Jenkins
+<img width="1919" height="313" alt="image" src="https://github.com/user-attachments/assets/0e9c12f1-439f-45b3-ba8f-1741a50d5376" />
+<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/716f47f0-95a7-4947-a356-5c1b67d01d94" />
+<img width="1884" height="615" alt="image" src="https://github.com/user-attachments/assets/ada318bb-a7b5-4a7b-97a8-7697d6276e75" />
+<img width="1905" height="745" alt="image" src="https://github.com/user-attachments/assets/8bc59a04-d30d-47f0-863e-6fd9d35bb935" />
+<img width="1805" height="936" alt="image" src="https://github.com/user-attachments/assets/7a4738a8-99cc-403f-a878-27ce25c83800" />
+
 
 
 
